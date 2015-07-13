@@ -2,7 +2,8 @@
   "name": "cbz-viewer",
   "private": true,
   "dependencies": {
-    "modernizr": "~2.8.1"
+    "modernizr": "~2.8.1",
+    "jszip": "Stuk/jszip#~2.5.0"
   },
   "devDependencies": {
     "chai": "~3.0.0",
